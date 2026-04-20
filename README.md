@@ -102,7 +102,7 @@ Segment-level metrics:
 
 ## Dashboard Overview
 
-🔗 Live Dashboard:  
+Live Dashboard:  
 https://public.tableau.com/app/profile/sebastian.solano.r./viz/Libro1_17747136964960/Dashboard1
 
 ![Loan Portfolio Dashboard](tableau/loan_portfolio_dashboard.png)
