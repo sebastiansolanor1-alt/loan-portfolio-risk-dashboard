@@ -1,0 +1,17 @@
+# R files
+*.Rhistory
+*.RData
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# sensitive files
+gittoken.txt
+
+data/accepted_2007_to_2018Q4.csv
+
+*.csv
+
+!data/loans_dashboard_dataset.csv
